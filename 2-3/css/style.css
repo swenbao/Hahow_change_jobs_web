@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+.up{
+    background-color: #B5AA9D;
+}
+.down{
+    position: relative;
+    background-color: #B9B7A7;
+    /* border: solid 10px black; */
+    height: 400px;
+    padding: 1px;
+}
+.first{
+    color: gray;
+}
+.gg{
+    display: block;
+}
+.aa{
+    background-color: #7C90A0;
+}
+.pp{
+    position: relative;
+    /* top: 100px; */
+    width: 100px; height: 100px;
+    background-color: #747274;
+
+    border-radius: 5px;
+    padding: 50px;
+    margin: 10px;
+}
